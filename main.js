@@ -68,19 +68,49 @@ function closeProductDetailAside(){
 const productList = [];
 
 productList.push({
-    name: 'Bike',
+    name: 'Product',
     price:120,
-    image: 'https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+    image: 'https://th.bing.com/th/id/OIP.MqZs4_j6U41mEe0FsVioJwHaFj?pid=ImgDet&rs=1',
 });
 productList.push({
-    name: 'Pantalla',
-    price:220,
-    image: 'https://th.bing.com/th/id/R.27f28c5d569e17bcde93751b06e56831?rik=3cTzEK0YtdS7Ig&pid=ImgRaw&r=0',
+    name: 'Product',
+    price:120,
+    image: 'https://th.bing.com/th/id/OIP.MqZs4_j6U41mEe0FsVioJwHaFj?pid=ImgDet&rs=1',
 });
 productList.push({
-    name: 'Compu',
-    price:620,
-    image: 'https://th.bing.com/th/id/R.6275937c0cfd84eec8d88469953efba7?rik=JQJE0E9a5oAwjQ&pid=ImgRaw&r=0',
+    name: 'Product',
+    price:120,
+    image: 'https://th.bing.com/th/id/OIP.MqZs4_j6U41mEe0FsVioJwHaFj?pid=ImgDet&rs=1',
+});
+productList.push({
+    name: 'Product',
+    price:120,
+    image: 'https://th.bing.com/th/id/OIP.MqZs4_j6U41mEe0FsVioJwHaFj?pid=ImgDet&rs=1',
+});
+productList.push({
+    name: 'Product',
+    price:120,
+    image: 'https://th.bing.com/th/id/OIP.MqZs4_j6U41mEe0FsVioJwHaFj?pid=ImgDet&rs=1',
+});
+productList.push({
+    name: 'Product',
+    price:120,
+    image: 'https://th.bing.com/th/id/OIP.MqZs4_j6U41mEe0FsVioJwHaFj?pid=ImgDet&rs=1',
+});
+productList.push({
+    name: 'Product',
+    price:120,
+    image: 'https://th.bing.com/th/id/OIP.MqZs4_j6U41mEe0FsVioJwHaFj?pid=ImgDet&rs=1',
+});
+productList.push({
+    name: 'Product',
+    price:120,
+    image: 'https://th.bing.com/th/id/OIP.MqZs4_j6U41mEe0FsVioJwHaFj?pid=ImgDet&rs=1',
+});
+productList.push({
+    name: 'Product',
+    price:120,
+    image: 'https://th.bing.com/th/id/OIP.MqZs4_j6U41mEe0FsVioJwHaFj?pid=ImgDet&rs=1',
 });
 
 function renderProducts(arr){
