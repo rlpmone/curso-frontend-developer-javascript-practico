@@ -112,6 +112,11 @@ productList.push({
     price:120,
     image: 'https://th.bing.com/th/id/OIP.MqZs4_j6U41mEe0FsVioJwHaFj?pid=ImgDet&rs=1',
 });
+productList.push({
+    name: 'Product',
+    price:120,
+    image: 'https://th.bing.com/th/id/OIP.MqZs4_j6U41mEe0FsVioJwHaFj?pid=ImgDet&rs=1',
+});
 
 function renderProducts(arr){
     for (product of arr){
